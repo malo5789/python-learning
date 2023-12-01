@@ -1,0 +1,5 @@
+def add_4_numbers(number0, number1, number2, number3):
+    return number0 + number1 + number2 + number3
+
+result = add_4_numbers(1,2,3,6)
+print(result)
